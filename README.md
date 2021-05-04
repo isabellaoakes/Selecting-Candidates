@@ -26,7 +26,7 @@ We performed exploratory data analysis and determined which variables to use for
 
 ## Presentations and projects
 * [Project write-up](https://github.com/isabellaoakes/Selecting-Candidates/blob/main/Final%20Project-Team%201.docx)
-* [Presentation](https://github.com/isabellaoakes/Selecting-Candidates/blob/main/Final_Merge_IDM_checkpoint%203.ipynb)
+* [Presentation](https://github.com/isabellaoakes/Selecting-Candidates/blob/main/Selecting%20Candidates%20to%20Provide%20Optimum%20Business%20Success_Final.pptx)
 
 ## Original Data
 [HR Analytics: Job Change of Data Scientists](https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists)
